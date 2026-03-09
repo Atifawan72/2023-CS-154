@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Smart Appointment Booking</string>
+    <string name="welcome_app">Welcome to the Appointment Booking App</string>
+    <string name="home_welcome">Welcome!</string>
+    <string name="home_description">This app helps you easily book medical appointments with top specialists in just a few clicks.</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="select_type">Select Appointment Type</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="accept_terms">I accept the Terms and Conditions</string>
+    <string name="confirm_booking">Confirm Booking</string>
+    <string name="appointment_confirmed">Appointment Confirmed</string>
+    <string name="confirmation_msg">Your appointment has been successfully booked.</string>
+    <string name="back_to_home">Back to Home</string>
+</resources>
